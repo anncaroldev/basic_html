@@ -1,1 +1,5 @@
-passo 0 (se o repositorio n existe)
+o head serve pra configurar a nossa pagina
+<p> para paragrafos
+a tag <a> serve pra linkar, mas tem q ter href + o valor dela q sera o link
+<hr> é uma linha horizontal
+<br> pula linha
